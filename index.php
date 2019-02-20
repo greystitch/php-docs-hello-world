@@ -1,3 +1,3 @@
 <?php
 
-echo "Preved Adyax!";
+phpinfo();
